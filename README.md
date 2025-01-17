@@ -7,6 +7,8 @@ An interactive **Streamlit UI** has been developed to enhance user experience.
 
 ---
 
+![image](https://github.com/user-attachments/assets/6a36f209-a9e6-4cc2-aeb4-762d93e5cb2e)
+
 ## Key Features
 - **98% accuracy** achieved using **XGBoost**
 - Performed **error analysis** for improved insights
@@ -98,5 +100,4 @@ A special thanks to **Codebasics** and **Dhaval Patel Sir** for their exceptiona
 
 ---
 
-![image](https://github.com/user-attachments/assets/6a36f209-a9e6-4cc2-aeb4-762d93e5cb2e)
 
